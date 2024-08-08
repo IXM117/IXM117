@@ -1,4 +1,4 @@
-### Hi!, my name is rob, my github username is @IXM117 I think anyone can notice how I made up my username.
+### Hi!, my name is Isaac Xivir Montejo, my github username is @IXM117 I think anyone can notice how I made up my username.
 
 #### About me
 I am a passionate programmer with a strong interest in software development and technology. I strive to constantly learn and improve my skills to create innovative and efficient solutions.
